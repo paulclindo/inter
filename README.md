@@ -27,4 +27,3 @@ Create a simple web interface that obtains all Lead records from Zoho CRM via th
 - Zoho CRM API Information:
     * https://www.zoho.com/crm/help/api/getrecords.html
     * https://www.zoho.com/crm/help/api/modules-fields.html#Leads
-"# inter"  git init git add README.md git commit -m "Enviando codigo" git remote add origin https://github.com/paulclindo/inter.git git push -u origin master
